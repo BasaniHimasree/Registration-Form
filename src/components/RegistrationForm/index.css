@@ -1,0 +1,53 @@
+.heading {
+  color: #ea580c;
+  font-family: Roboto;
+  font-size: 50px;
+}
+.container {
+  height: 100vh;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 70px;
+  justify-content: center;
+  border-radius: 8px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+.button {
+  background-color: #ea580c;
+  height: 35px;
+  width: 120px;
+  border-width: 0px;
+  border-radius: 6px;
+  color: #ffffff;
+  cursor: pointer;
+}
+.button-card {
+  text-align: center;
+}
+.paragraph {
+  color: #ff0b37;
+  font-size: 15px;
+  font-weight: 500;
+}
+.input {
+  height: 45px;
+  width: 200px;
+}
+.success-image {
+  height: 80px;
+  width: 80px;
+}
+.input-card {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
